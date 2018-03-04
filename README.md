@@ -24,7 +24,7 @@ Références partagées par les formateurs de la wildcodeschoolparis
   - [flexbox.io](https://flexbox.io/) *(Cours complet de 20 vidéos)*
 
 
-## Divers talk
+## Divers talks
   - [Bret Victor: The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) [transcript](http://glamour-and-discourse.blogspot.fr/p/the-future-of-programming-bret-victor.html) *(Présentation de diverses alternatives qui aurais pu changer ce qu'est devenu l'informatique)*
   - [Gerry Sussman: We Really Don't Know How to Compute!](https://www.youtube.com/watch?v=O3tVctB_VSU)
   - [Alan Kay: Doing with Images Makes Symbols](https://www.youtube.com/watch?v=p2LZLYcu_JY)
