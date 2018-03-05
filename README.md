@@ -2,8 +2,6 @@
 Références partagées par les formateurs de la wildcodeschoolparis
 
 
-
-
 ## Unix
 ### Shell
   - [tl;dr](https://tldr.sh/#installation) *(Une alternative simple au man écrite par la communauté)*
@@ -16,7 +14,12 @@ Références partagées par les formateurs de la wildcodeschoolparis
   - [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) *(Linus en personne qui nous parle de son bébé)*
   - [Understanding Version-Control Systems](http://www.catb.org/esr/writings/version-control/version-control.html) *(Un draft très complet qui trace toute l'histoire des systèmes de controle de versions, pour les curieux)*
 
-
+## Algo
+  - [Project Euler](https://projecteuler.net) *(Problèmes mathématiques conçus pour être résolus à l'aide de programmes informatiques)*
+  - [Codingame](https://www.codingame.com) *(challenge-based training platform, 25+ languages supported)*
+  - [Code Wars](https://www.codewars.com) *(challenge-based training platform, TDD approach, many languages supported)*
+  - [Leek Wars](https://leekwars.com) *(Programmer l'IA d'un poireau pour gagner des combats)*
+  - [Elevator Saga](http://play.elevatorsaga.com) *(Programmer le comportement d'ascenseurs, challenges progressifs)* **advanced**
 
 ## Css
 ### Flexbox
