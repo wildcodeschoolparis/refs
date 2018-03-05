@@ -11,6 +11,7 @@ Références partagées par les formateurs de la wildcodeschoolparis
 
 ### Git
   - [Try Git](https://try.github.io/) *(Guide interactif pour avoir un aperçu global)*
+  - [Githug](https://github.com/Gazler/githug) *(Exercices pratiques en ligne de commande pour apprendre Git)*
   - [Learn Git Branching](https://learngitbranching.js.org/) *(Guide interactif pour apprendre les branches sur Git)*
   - [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) *(Linus en personne qui nous parle de son bébé)*
   - [Understanding Version-Control Systems](http://www.catb.org/esr/writings/version-control/version-control.html) *(Un draft très complet qui trace toute l'histoire des systèmes de controle de versions, pour les curieux)*
