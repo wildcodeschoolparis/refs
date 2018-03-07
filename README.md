@@ -12,12 +12,13 @@ Références partagées par les formateurs de la wildcodeschoolparis
   - [Githug](https://github.com/Gazler/githug) *(Exercices pratiques en ligne de commande pour apprendre Git facon [Thug](https://2.bp.blogspot.com/-Kd2v7mICr_M/VLQHMI0DHaI/AAAAAAAB3zg/JLRV6_pt0Q0/s1600/white-guy-thug-life-tattoo-on-stomach.jpg))*
   - [Learn Git Branching](https://learngitbranching.js.org/) *(Guide interactif pour apprendre les branches sur Git)*
   - [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) *(Linus en personne qui nous parle de son bébé)*
+  - [What's inside the git directory](https://blog.safia.rocks/post/171558325240/whats-inside-the-git-directory) *(mission d'exploration dans les entraves de git)*
   - [Understanding Version-Control Systems](http://www.catb.org/esr/writings/version-control/version-control.html) *(Un draft très complet qui trace toute l'histoire des systèmes de controle de versions, pour les curieux)*
 
 ## Algo
   - [Project Euler](https://projecteuler.net) *(Problèmes mathématiques conçus pour être résolus à l'aide de programmes informatiques)*
-  - [Codingame](https://www.codingame.com) *(challenge-based training platform, 25+ languages supported)*
   - [Code Wars](https://www.codewars.com) *(challenge-based training platform, TDD approach, many languages supported)*
+  - [Codingame](https://www.codingame.com) *(challenge-based training platform, 25+ languages supported)*
   - [Leek Wars](https://leekwars.com) *(Programmer l'IA d'un poireau pour gagner des combats)*
   - [Elevator Saga](http://play.elevatorsaga.com) *(Programmer le comportement d'ascenseurs, challenges progressifs)* **advanced**
 
@@ -26,7 +27,6 @@ Références partagées par les formateurs de la wildcodeschoolparis
   - [Flexbox Froggy](http://flexboxfroggy.com/) *(Un jeu ou il faut résoudre des niveaux en CSS)*
   - [scrimba/flexbox](https://scrimba.com/g/gflexbox) *(Cours vidéos interactifs)*
   - [flexbox.io](https://flexbox.io/) *(Cours complet de 20 vidéos)*
-
 
 ## Divers talks
   - [Bret Victor: The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) - [[transcript]](http://glamour-and-discourse.blogspot.fr/p/the-future-of-programming-bret-victor.html) *(Présentation de diverses alternatives qui aurais pu changer ce qu'est devenu l'informatique)*
