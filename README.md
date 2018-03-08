@@ -21,6 +21,9 @@ Références partagées par les formateurs de la wildcodeschoolparis
   - [Codingame](https://www.codingame.com) *(challenge-based training platform, 25+ languages supported)*
   - [Leek Wars](https://leekwars.com) *(Programmer l'IA d'un poireau pour gagner des combats)*
   - [Elevator Saga](http://play.elevatorsaga.com) *(Programmer le comportement d'ascenseurs, challenges progressifs)* **advanced**
+  
+## Diverses lectures
+  - [What is clean code](http://www.arolla.fr/blog/2013/11/what-is-clean-code/)
 
 ## Css
 ### Flexbox
